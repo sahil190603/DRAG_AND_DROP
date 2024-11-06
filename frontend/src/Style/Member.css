@@ -1,0 +1,28 @@
+.menu-item {
+    cursor: pointer;
+    padding: 10px;
+    margin-right: 20px;
+    margin-left: 20px;
+    border-radius: 15px;
+    transition: background-color 0.3s ease;
+  
+  }
+  
+  .menu-item.selected {
+    background-color:  #808080; /* Darker grey or any color for the selected item */
+    color: white; /* Ensure text is visible */
+    
+  }
+
+  .memberlist{
+    cursor: pointer;
+    padding: 10px;
+    margin-right: 20px;
+    margin-left: 20px;
+    border-radius: 15px;
+    transition: background-color 0.3s ease;
+  }
+
+  /* .memberlist.selected {
+    background-color: #444444;
+  } */
